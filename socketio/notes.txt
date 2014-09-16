@@ -1,0 +1,16 @@
+socketio
+--------
+ 
+A very simple socket.io demonstration
+
+app.js - server side
+
+socket.html - client side
+
+Start app.js and then point a browser at 127.0.0.1:8001
+
+127.0.0.1:8001 - displays "hello world" in the browser
+
+127.0.0.1:8001/socket.html - displays "This is our socket.html file." in the browser.  
+The node app is sending the current date to the browser every second.  To see this, 
+use the browser tools to display the console. 
