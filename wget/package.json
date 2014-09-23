@@ -1,0 +1,15 @@
+{
+  "name": "nodevember-travel",
+  "version": "0.0.1",
+  "description": "Uses wget to download a browser page and then looks for particular text",
+  "main": "app.js",
+  "dependencies": {
+    "wgetjs": "~0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
