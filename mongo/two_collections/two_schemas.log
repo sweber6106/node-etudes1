@@ -1,0 +1,265 @@
+2014-04-25 14:22:16 [0] INFO node cluster startup worker process
+2014-04-25 14:22:16 [0] INFO pid 2642
+2014-04-25 14:22:16 [0] INFO db mongodb://localhost/gunflower
+2014-04-25 14:22:16 [0] ERROR db disconnected
+2014-04-25 14:22:16 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:22:21 [0] INFO db connecting
+2014-04-25 14:22:21 [0] ERROR db disconnected
+2014-04-25 14:22:21 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:22:26 [0] INFO db connecting
+2014-04-25 14:22:26 [0] ERROR db disconnected
+2014-04-25 14:22:26 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:22:31 [0] INFO db connecting
+2014-04-25 14:22:31 [0] ERROR db disconnected
+2014-04-25 14:22:31 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:22:36 [0] INFO db connecting
+2014-04-25 14:22:36 [0] ERROR db disconnected
+2014-04-25 14:22:36 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:22:41 [0] INFO db connecting
+2014-04-25 14:22:41 [0] ERROR db disconnected
+2014-04-25 14:22:41 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:22:46 [0] INFO db connecting
+2014-04-25 14:22:46 [0] ERROR db disconnected
+2014-04-25 14:22:46 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:22:51 [0] INFO db connecting
+2014-04-25 14:22:51 [0] ERROR db disconnected
+2014-04-25 14:22:51 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:22:56 [0] INFO db connecting
+2014-04-25 14:22:56 [0] ERROR db disconnected
+2014-04-25 14:22:56 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:01 [0] INFO db connecting
+2014-04-25 14:23:01 [0] ERROR db disconnected
+2014-04-25 14:23:01 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:06 [0] INFO db connecting
+2014-04-25 14:23:06 [0] ERROR db disconnected
+2014-04-25 14:23:06 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:11 [0] INFO db connecting
+2014-04-25 14:23:11 [0] ERROR db disconnected
+2014-04-25 14:23:11 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:16 [0] INFO db connecting
+2014-04-25 14:23:16 [0] ERROR db disconnected
+2014-04-25 14:23:16 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:21 [0] INFO db connecting
+2014-04-25 14:23:21 [0] ERROR db disconnected
+2014-04-25 14:23:21 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:26 [0] INFO db connecting
+2014-04-25 14:23:26 [0] ERROR db disconnected
+2014-04-25 14:23:26 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:31 [0] INFO db connecting
+2014-04-25 14:23:31 [0] ERROR db disconnected
+2014-04-25 14:23:31 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:36 [0] INFO db connecting
+2014-04-25 14:23:36 [0] ERROR db disconnected
+2014-04-25 14:23:36 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:41 [0] INFO db connecting
+2014-04-25 14:23:41 [0] ERROR db disconnected
+2014-04-25 14:23:41 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:46 [0] INFO db connecting
+2014-04-25 14:23:46 [0] ERROR db disconnected
+2014-04-25 14:23:46 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:51 [0] INFO db connecting
+2014-04-25 14:23:51 [0] ERROR db disconnected
+2014-04-25 14:23:51 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:23:56 [0] INFO db connecting
+2014-04-25 14:23:56 [0] ERROR db disconnected
+2014-04-25 14:23:56 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:24:01 [0] INFO db connecting
+2014-04-25 14:24:01 [0] ERROR db disconnected
+2014-04-25 14:24:01 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:24:06 [0] INFO db connecting
+2014-04-25 14:24:06 [0] ERROR db disconnected
+2014-04-25 14:24:06 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:24:11 [0] INFO db connecting
+2014-04-25 14:24:11 [0] ERROR db disconnected
+2014-04-25 14:24:11 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:24:16 [0] INFO db connecting
+2014-04-25 14:24:16 [0] ERROR db disconnected
+2014-04-25 14:24:16 [0] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:24:19 [0] INFO received signal SIGINT
+2014-04-25 14:25:44 [0] INFO MongoDB test program using two schemas
+2014-04-25 14:25:44 [0] INFO two_schemas 0.1.0
+2014-04-25 14:25:44 [0] INFO node cluster startup master process
+2014-04-25 14:25:44 [0] INFO pid 2711
+2014-04-25 14:25:45 [1] INFO node cluster startup worker process
+2014-04-25 14:25:45 [1] INFO pid 2717
+2014-04-25 14:25:45 [1] INFO db mongodb://localhost/gunflower
+2014-04-25 14:25:45 [2] INFO node cluster startup worker process
+2014-04-25 14:25:45 [2] INFO pid 2718
+2014-04-25 14:25:45 [2] INFO db mongodb://localhost/gunflower
+2014-04-25 14:25:45 [1] ERROR db disconnected
+2014-04-25 14:25:45 [1] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:25:45 [2] ERROR db disconnected
+2014-04-25 14:25:45 [2] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:25:50 [1] INFO db connecting
+2014-04-25 14:25:50 [1] ERROR db disconnected
+2014-04-25 14:25:50 [2] INFO db connecting
+2014-04-25 14:25:50 [1] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:25:50 [2] ERROR db disconnected
+2014-04-25 14:25:50 [2] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:25:55 [1] INFO db connecting
+2014-04-25 14:25:55 [1] ERROR db disconnected
+2014-04-25 14:25:55 [2] INFO db connecting
+2014-04-25 14:25:55 [1] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:25:55 [2] ERROR db disconnected
+2014-04-25 14:25:55 [2] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:26:00 [1] INFO db connecting
+2014-04-25 14:26:00 [1] ERROR db disconnected
+2014-04-25 14:26:00 [1] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:26:00 [2] INFO db connecting
+2014-04-25 14:26:00 [2] ERROR db disconnected
+2014-04-25 14:26:00 [2] ERROR db error: [Error: failed to connect to [localhost:27017]]
+2014-04-25 14:26:04 [0] INFO received signal SIGINT
+2014-04-25 14:26:04 [1] INFO received signal SIGINT
+2014-04-25 14:26:04 [2] INFO received signal SIGINT
+2014-04-25 14:29:30 [0] INFO MongoDB test program using two schemas
+2014-04-25 14:29:30 [0] INFO two_schemas 0.1.0
+2014-04-25 14:29:30 [0] INFO node cluster startup master process
+2014-04-25 14:29:30 [0] INFO pid 2804
+2014-04-25 14:29:31 [1] INFO node cluster startup worker process
+2014-04-25 14:29:31 [1] INFO pid 2810
+2014-04-25 14:29:31 [1] INFO db mongodb://localhost/gunflower
+2014-04-25 14:29:31 [2] INFO node cluster startup worker process
+2014-04-25 14:29:31 [2] INFO pid 2811
+2014-04-25 14:29:31 [2] INFO db mongodb://localhost/gunflower
+2014-04-25 14:29:31 [1] INFO db connected
+2014-04-25 14:29:31 [2] INFO db connected
+2014-04-25 14:29:31 [1] INFO db opened
+2014-04-25 14:29:31 [1] INFO configure: development
+2014-04-25 14:29:31 [2] INFO db opened
+2014-04-25 14:29:31 [2] INFO configure: development
+2014-04-25 14:29:57 [1] INFO received signal SIGINT
+2014-04-25 14:29:57 [0] INFO received signal SIGINT
+2014-04-25 14:29:57 [2] INFO received signal SIGINT
+2014-04-25 14:30:33 [0] INFO MongoDB test program using two schemas
+2014-04-25 14:30:33 [0] INFO two_schemas 0.1.0
+2014-04-25 14:30:33 [0] INFO node cluster startup master process
+2014-04-25 14:30:33 [0] INFO pid 2840
+2014-04-25 14:30:33 [1] INFO node cluster startup worker process
+2014-04-25 14:30:33 [1] INFO pid 2846
+2014-04-25 14:30:33 [1] INFO db mongodb://localhost/gunflower
+2014-04-25 14:30:33 [2] INFO node cluster startup worker process
+2014-04-25 14:30:33 [2] INFO pid 2847
+2014-04-25 14:30:33 [2] INFO db mongodb://localhost/gunflower
+2014-04-25 14:30:33 [1] INFO db connected
+2014-04-25 14:30:33 [2] INFO db connected
+2014-04-25 14:30:33 [1] INFO db opened
+2014-04-25 14:30:33 [2] INFO db opened
+2014-04-25 14:30:33 [1] INFO configure: development
+2014-04-25 14:30:34 [2] INFO configure: development
+2014-04-25 14:47:51 [0] INFO received signal SIGINT
+2014-04-25 14:47:51 [1] INFO received signal SIGINT
+2014-04-25 14:47:51 [2] INFO received signal SIGINT
+2014-04-25 14:49:29 [0] INFO MongoDB test program using two schemas
+2014-04-25 14:49:29 [0] INFO two_schemas 0.1.0
+2014-04-25 14:49:29 [0] INFO node cluster startup master process
+2014-04-25 14:49:29 [0] INFO pid 2977
+2014-04-25 14:49:30 [1] INFO node cluster startup worker process
+2014-04-25 14:49:30 [1] INFO pid 2983
+2014-04-25 14:49:30 [1] INFO db mongodb://localhost/gunflower
+2014-04-25 14:49:30 [2] INFO node cluster startup worker process
+2014-04-25 14:49:30 [2] INFO pid 2984
+2014-04-25 14:49:30 [2] INFO db mongodb://localhost/gunflower
+2014-04-25 14:49:30 [1] INFO db connected
+2014-04-25 14:49:30 [2] INFO db connected
+2014-04-25 14:49:30 [1] INFO db opened
+2014-04-25 14:49:30 [1] INFO configure: development
+2014-04-25 14:49:30 [2] INFO db opened
+2014-04-25 14:49:30 [2] INFO configure: development
+2014-04-25 14:51:36 [0] INFO received signal SIGINT
+2014-04-25 14:51:36 [2] INFO received signal SIGINT
+2014-04-25 14:51:36 [1] INFO exiting
+2014-04-25 14:52:53 [0] INFO MongoDB test program using two schemas
+2014-04-25 14:52:53 [0] INFO two_schemas 0.1.0
+2014-04-25 14:52:53 [0] INFO node cluster startup master process
+2014-04-25 14:52:53 [0] INFO pid 3019
+2014-04-25 14:52:54 [1] INFO node cluster startup worker process
+2014-04-25 14:52:54 [1] INFO pid 3025
+2014-04-25 14:52:54 [1] INFO db mongodb://localhost/gunflower
+2014-04-25 14:52:54 [2] INFO node cluster startup worker process
+2014-04-25 14:52:54 [2] INFO pid 3026
+2014-04-25 14:52:54 [2] INFO db mongodb://localhost/gunflower
+2014-04-25 14:52:54 [1] INFO db connected
+2014-04-25 14:52:54 [2] INFO db connected
+2014-04-25 14:52:54 [1] INFO db opened
+2014-04-25 14:52:54 [1] INFO configure: development
+2014-04-25 14:52:54 [2] INFO db opened
+2014-04-25 14:52:54 [2] INFO configure: development
+2014-04-25 14:56:08 [2] INFO received signal SIGINT
+2014-04-25 14:56:08 [0] INFO received signal SIGINT
+2014-04-25 14:56:08 [1] INFO exiting
+2014-04-25 15:20:47 [0] INFO MongoDB test program using two schemas
+2014-04-25 15:20:47 [0] INFO two_schemas 0.1.0
+2014-04-25 15:20:47 [0] INFO node cluster startup master process
+2014-04-25 15:20:47 [0] INFO pid 3180
+2014-04-25 15:20:48 [2] INFO node cluster startup worker process
+2014-04-25 15:20:48 [2] INFO pid 3187
+2014-04-25 15:20:48 [2] INFO db mongodb://localhost/gunflower
+2014-04-25 15:20:48 [1] INFO node cluster startup worker process
+2014-04-25 15:20:48 [1] INFO pid 3186
+2014-04-25 15:20:48 [1] INFO db mongodb://localhost/gunflower
+2014-04-25 15:20:48 [2] INFO db connected
+2014-04-25 15:20:48 [1] INFO db connected
+2014-04-25 15:20:48 [2] INFO db opened
+2014-04-25 15:20:48 [1] INFO db opened
+2014-04-25 15:20:48 [2] INFO configure: development
+2014-04-25 15:20:48 [1] INFO configure: development
+2014-04-25 15:27:08 [0] INFO received signal SIGINT
+2014-04-25 15:27:08 [1] INFO received signal SIGINT
+2014-04-25 15:27:08 [2] INFO exiting
+2014-04-25 16:11:28 [0] INFO MongoDB test program using two schemas
+2014-04-25 16:11:28 [0] INFO two_schemas 0.1.0
+2014-04-25 16:11:28 [0] INFO node cluster startup master process
+2014-04-25 16:11:28 [0] INFO pid 3467
+2014-04-25 16:11:29 [1] INFO node cluster startup worker process
+2014-04-25 16:11:29 [1] INFO pid 3473
+2014-04-25 16:11:29 [1] INFO db mongodb://localhost/gunflower
+2014-04-25 16:11:29 [2] INFO node cluster startup worker process
+2014-04-25 16:11:29 [2] INFO pid 3474
+2014-04-25 16:11:29 [2] INFO db mongodb://localhost/gunflower
+2014-04-25 16:11:29 [1] INFO db connected
+2014-04-25 16:11:29 [2] INFO db connected
+2014-04-25 16:11:29 [1] INFO db opened
+2014-04-25 16:11:29 [1] INFO configure: development
+2014-04-25 16:11:29 [2] INFO db opened
+2014-04-25 16:11:29 [2] INFO configure: development
+2014-04-25 16:14:25 [1] INFO received signal SIGINT
+2014-04-25 16:14:25 [0] INFO received signal SIGINT
+2014-04-25 16:14:25 [2] INFO received signal SIGINT
+2014-04-25 16:15:52 [0] INFO MongoDB test program using two schemas
+2014-04-25 16:15:52 [0] INFO two_schemas 0.1.0
+2014-04-25 16:15:52 [0] INFO node cluster startup master process
+2014-04-25 16:15:52 [0] INFO pid 3528
+2014-04-25 16:15:53 [1] INFO node cluster startup worker process
+2014-04-25 16:15:53 [1] INFO pid 3534
+2014-04-25 16:15:53 [1] INFO db mongodb://localhost/gunflower
+2014-04-25 16:15:53 [2] INFO node cluster startup worker process
+2014-04-25 16:15:53 [2] INFO pid 3535
+2014-04-25 16:15:53 [2] INFO db mongodb://localhost/gunflower
+2014-04-25 16:15:53 [1] INFO db connected
+2014-04-25 16:15:53 [2] INFO db connected
+2014-04-25 16:15:53 [1] INFO db opened
+2014-04-25 16:15:53 [1] INFO configure: development
+2014-04-25 16:15:53 [2] INFO db opened
+2014-04-25 16:15:53 [2] INFO configure: development
+2014-04-25 16:18:46 [0] INFO received signal SIGINT
+2014-04-25 16:18:46 [1] INFO received signal SIGINT
+2014-04-25 16:18:46 [2] INFO exiting
+2014-04-25 16:19:51 [0] INFO MongoDB test program using two schemas
+2014-04-25 16:19:51 [0] INFO two_schemas 0.1.0
+2014-04-25 16:19:51 [0] INFO node cluster startup master process
+2014-04-25 16:19:51 [0] INFO pid 3588
+2014-04-25 16:19:52 [2] INFO node cluster startup worker process
+2014-04-25 16:19:52 [2] INFO pid 3595
+2014-04-25 16:19:52 [1] INFO node cluster startup worker process
+2014-04-25 16:19:52 [2] INFO db mongodb://localhost/gunflower
+2014-04-25 16:19:52 [1] INFO pid 3594
+2014-04-25 16:19:52 [1] INFO db mongodb://localhost/gunflower
+2014-04-25 16:19:52 [2] INFO db connected
+2014-04-25 16:19:52 [1] INFO db connected
+2014-04-25 16:19:52 [2] INFO db opened
+2014-04-25 16:19:52 [1] INFO db opened
+2014-04-25 16:19:52 [1] INFO configure: development
+2014-04-25 16:19:52 [2] INFO configure: development
+2014-04-25 16:32:27 [0] INFO received signal SIGINT
+2014-04-25 16:32:27 [1] INFO received signal SIGINT
+2014-04-25 16:32:27 [2] INFO exiting

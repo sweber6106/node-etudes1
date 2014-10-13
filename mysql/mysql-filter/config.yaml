@@ -1,0 +1,20 @@
+# config.yaml
+
+# MySQL database filter
+
+default:
+  cluster:
+    workers:           1
+  logger:
+    level:             info
+    path:              filter.log
+  mysql:
+    host:              localhost
+    user:              root
+    password:          ''
+    srcdb:             voipmontest
+    destdb:            filtered2
+  recordsPerChunk:     10
+  desiredRecords:      2000
+development:
+production:

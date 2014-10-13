@@ -1,0 +1,18 @@
+{
+  "name": "dump-db-native",
+  "version": "0.0.1",
+  "description": "MongoDB dumper using the native driver",
+  "main": "app.js",
+  "dependencies": {
+    "assert": "~1.1.1",
+    "mongodb": "~1.4.8",
+    "nopt": "~3.0.1",
+    "path": "~0.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}

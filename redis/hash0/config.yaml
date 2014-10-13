@@ -1,0 +1,32 @@
+# config.yaml
+
+# VoIP quality data aggregator
+
+default:
+  cluster:
+    workers:       1
+  proxy:
+    scheme:        https
+    host:          '127.0.0.1'
+    port:          8085
+    ssl:
+      key:         ./ssl-certs/server.key
+      cert:        ./ssl-certs/server.crt
+    auth:
+      username:    jsamples
+      password:    br549
+  mongodb:
+    url:           mongodb://localhost/hash1
+    findLimit:     100
+  redis:
+    host:          localhost
+    port:          6379
+  logger:
+    level:         info
+#    path:    /usr/local/esi/voip-quality/log/voip-quality.log
+    path:          ./hash1.log
+  server:
+    hostname:      '127.0.0.1'
+    port:          8086
+development:
+production:

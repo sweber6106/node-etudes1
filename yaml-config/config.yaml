@@ -1,0 +1,9 @@
+default:
+  aSetting:            1
+  anotherSetting:      2
+development:
+  developmentSetting:  3
+production:
+  productionSetting:   4
+splarf:
+  splarfSetting:       5

@@ -1,0 +1,17 @@
+# config.yaml
+
+# Uniqueness test program
+
+default:
+  cluster:
+    workers:    2
+  mongodb:
+    url:        mongodb://localhost/uniquely
+  logger:
+    level:      info
+    path:       ./uniquely.log
+  server:
+    hostname:   '127.0.0.1'
+    port:       8086
+development:
+production:

@@ -1,0 +1,15 @@
+{
+  "name": "sprizzle",
+  "version": "0.0.1",
+  "dependencies": {
+    "geocoder": "~0.2.0"
+  },
+  "description": "Translates address string into latitude and longitude",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Weber",
+  "license": "BSD-2-Clause"
+}

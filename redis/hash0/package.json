@@ -1,0 +1,34 @@
+{
+  "name": "vqda",
+  "version": "0.1.0",
+  "description": "VoIP Quality Data Aggregator",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "ESI",
+  "dependencies": {
+    "async": "0.2.x",
+    "express": "3.4.x",
+    "log4node": "0.1.x",
+    "moment": "2.5.x",
+    "mongoose": "3.8.x",
+    "nopt": "2.1.x",
+    "redis": "^0.10.3",
+    "request": "2.34.x",
+    "sprintf": "0.1.x",
+    "yaml-config": "0.3.x"
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-cli": "0.1.x",
+    "grunt-contrib-jshint": "0.8.x",
+    "grunt-contrib-nodeunit": "0.3.x",
+    "nodeunit": "0.8.x"
+  },
+  "repository": {},
+  "private": true
+}

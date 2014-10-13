@@ -1,0 +1,4 @@
+{ "_id" : 0, "author" : "Mark Wandschneider", "title" : "Learning Node.js", "publisher" : "Addison-Wesley", "copyright" : 2013 }
+{ "_id" : 1, "author" : "Dr. Axel Rauschmayer", "title" : "Speaking JavaScript", "publisher" : "O'Reilly", "copyright" : 2014 }
+{ "_id" : 2, "author" : "Michael Fitzgerald", "title" : "Ruby Pocket Reference", "publisher" : "O'Reilly", "copyright" : 2007 }
+{ "_id" : 3, "author" : "Bill Bryson", "title" : "A Short History of Nearly Everything", "publisher" : "Broadway", "copyright" : 2003 }

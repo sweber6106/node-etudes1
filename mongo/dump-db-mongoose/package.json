@@ -1,0 +1,18 @@
+{
+  "name": "dump-db-mongoose",
+  "version": "0.0.1",
+  "description": "Dump MongoDB using mongoose driver",
+  "main": "app.js",
+  "dependencies": {
+    "assert": "~1.1.1",
+    "mongoose": "~3.8.14",
+    "nopt": "~3.0.1",
+    "path": "~0.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}

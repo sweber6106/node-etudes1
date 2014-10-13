@@ -1,0 +1,17 @@
+# config.yaml
+
+# complex-schema test program
+
+default:
+  cluster:
+    workers:    2
+  mongodb:
+    url:        mongodb://localhost/thingz
+  logger:
+    level:      info
+    path:       ./complex-schema.log
+  server:
+    hostname:   '127.0.0.1'
+    port:       8086
+development:
+production:

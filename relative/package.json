@@ -1,0 +1,19 @@
+{
+  "name": "momentary",
+  "version": "0.1.0",
+  "description": "moment module etude",
+  "main": "app.js",
+  "author": "ESI",
+  "dependencies": {
+    "moment": "2.5.x"
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-cli": "0.1.x",
+    "grunt-contrib-jshint": "0.8.x",
+    "grunt-contrib-nodeunit": "0.3.x",
+    "nodeunit": "0.8.x"
+  },
+  "repository": {},
+  "private": true
+}

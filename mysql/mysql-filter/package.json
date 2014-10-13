@@ -1,0 +1,35 @@
+{
+  "name": "cdr-polling-relay",
+  "version": "0.0.1",
+  "description": "MySQL to VQDA relay",
+  "author": {
+    "name": "ESI",
+    "url": "http://www.esi-estech.com/"
+  },
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "test": "node_modules/.bin/grunt test"
+  },
+  "engines": {
+    "node": "0.10.21",
+    "npm": ">= 1.3.11"
+  },
+  "dependencies": {
+    "async": "0.8.x",
+    "log4node": "0.1.x",
+    "moment": "^2.6.0",
+    "mysql": "^2.3.0",
+    "nopt": "2.2.x",
+    "sprintf": "0.1.x",
+    "yaml-config": "0.3.x"
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-cli": "0.1.x",
+    "grunt-contrib-jshint": "0.8.x",
+    "grunt-contrib-nodeunit": "0.3.x",
+    "nodeunit": "0.8.x",
+    "grunt-mocha-test": "0.10.x"
+  }
+}

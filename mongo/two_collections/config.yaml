@@ -1,0 +1,17 @@
+# config.yaml
+
+# Two schema test program
+
+default:
+  cluster:
+    workers:    2
+  mongodb:
+    url:        mongodb://localhost/gunflower
+  logger:
+    level:      info
+    path:       ./two_schemas.log
+  server:
+    hostname:   '127.0.0.1'
+    port:       8086
+development:
+production:

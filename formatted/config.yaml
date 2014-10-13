@@ -1,0 +1,15 @@
+# config.yaml
+
+# formatted output (console.log and log.info) test program
+
+default:
+  cluster:
+    workers:    1
+  logger:
+    level:      info
+    path:       ./formatted.log
+  server:
+    hostname:   '127.0.0.1'
+    port:       8086
+development:
+production:

@@ -1,0 +1,33 @@
+{
+  "name": "two_schemas",
+  "version": "0.1.0",
+  "description": "MongoDB test program using two schemas",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "ESI",
+  "dependencies": {
+    "log4node": "0.1.x",
+    "mongoose": "3.8.x",
+    "nopt": "2.1.x",
+    "yaml-config": "0.3.x",
+    "sprintf": "0.1.x",
+    "async": "0.2.x",
+    "request": "2.34.x",
+    "express": "3.4.x",
+    "moment": "2.5.x"
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-cli": "0.1.x",
+    "grunt-contrib-jshint": "0.8.x",
+    "grunt-contrib-nodeunit": "0.3.x",
+    "nodeunit": "0.8.x"
+  },
+  "repository": {},
+  "private": true
+}

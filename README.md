@@ -1,6 +1,3 @@
-node-etudes1 -- Node.js etudes
-==============================
+## node-etudes1
 
-## SYNOPSIS
-
-Node.js etudes and examples.
+* Various small projects to show different facets of Node.js

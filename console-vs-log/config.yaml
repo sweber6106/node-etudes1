@@ -1,0 +1,8 @@
+# config.yaml
+
+default:
+  cluster:
+    workers:     1
+  logger:
+    level:       info
+    path:        console-vs-log.log
