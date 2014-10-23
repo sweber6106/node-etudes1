@@ -13,11 +13,7 @@ console.log('emitter etude 1');
 
 // these declarations are equivalent
 //var Flower = function(color) {
-function Flower(color) {
-  var self = this;
-
-  this.color = color;
-
+function Flower() {
   events.EventEmitter.call(this);
 }
 
@@ -25,8 +21,8 @@ util.inherits(Flower, events.EventEmitter);
 // the following technique is deprecated according to mdn
 //Flower.prototype.__proto__ = events.EventEmitter.prototype;
 
-var f1 = new Flower('yellow');
-var f2 = new Flower('blue');
+var f1 = new Flower();
+var f2 = new Flower();
 
 f1.addListener('splarf', function() {
   console.log('splarf received on f1 via addListener');
