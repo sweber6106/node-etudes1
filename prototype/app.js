@@ -32,7 +32,6 @@ Classy.prototype.fuss = function() { console.log('inside fuss'); }
 
 var classy = new Classy('JavaScript', 'Typeless language');
 
-// there is no protection from the following
 console.log(classy.name);
 
 classy.doStuff();
