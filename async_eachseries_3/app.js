@@ -25,15 +25,15 @@ function iteratorFunction(item, callback) {
     case 'beaver':
     case 'cat':
     case 'dog':
-      process.nextTick(function() {callback();});
-      //setImmediate(function() {callback();});
+      process.nextTick(callback);
+      //setImmediate(callback);
       break;
  
     case 'elephant':
     case 'fox':
     case 'goat':
-      //process.nextTick(function() {callback();});
-      setImmediate(function() {callback();});
+      //process.nextTick(callback);
+      setImmediate(callback);
       break;
 
     default:
